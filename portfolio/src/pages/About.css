@@ -1,0 +1,38 @@
+.task-list {
+    list-style-type: circle;
+}
+
+ .task-list li {
+    margin-bottom: 10px;
+
+}
+
+.intro {
+    background-color: #7395AE;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.sider {
+    background-color: #7395AE;
+    padding: 15px;
+    width: 35%;
+    margin-right: 10px;
+
+}
+
+.content {
+    display: flex;
+}
+
+.workexp {
+    background-color: #7395AE;
+    padding: 15px;
+    margin-bottom: 10px;
+
+}
+.skill {
+    display: grid;
+    background-color: #7395AE;
+    padding: 15px;
+}

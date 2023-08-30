@@ -1,0 +1,25 @@
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-btn-group li:hover {
+    background-color: #557A95;
+}
+
+.nav-btn-group {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: #7395AE;
+    padding: 0;
+}
+
+.intro-card {
+    background-color: #7395AE;
+    width: fit-content;
+    padding: 15px;
+    display: grid;
+}

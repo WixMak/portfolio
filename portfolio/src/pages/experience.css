@@ -1,0 +1,26 @@
+.exp-container {
+    display: flex;
+}
+
+.time-line-container {
+    padding: 15px;
+    background-color: #7395AE;
+    margin-right: 10px;
+    min-width: 26%;
+    text-align: center;
+}
+
+.time-line-container .ant-typography:hover {
+    color: #5D5C61;
+}
+
+.projectShow-container {
+    padding: 15px;
+    background-color: #7395AE;
+}
+
+.projectShow-container img {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
